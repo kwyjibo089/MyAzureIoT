@@ -110,6 +110,6 @@ typedef long __PTRDIFF_TYPE__;
 #define interrupts() sei()
 #define noInterrupts() cli()
 
-#include "MyAzureIot.Arduino.WeMos.ino"
+#include "MyAzureIot.Arduino.Blink.ino"
 #endif
 #endif
