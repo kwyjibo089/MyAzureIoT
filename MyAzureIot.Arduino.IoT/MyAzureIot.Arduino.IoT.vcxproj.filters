@@ -25,7 +25,7 @@
     <ClInclude Include="__vm\.MyAzureIot.Arduino.IoT.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="config.h">
+    <ClInclude Include="__vm\config.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
